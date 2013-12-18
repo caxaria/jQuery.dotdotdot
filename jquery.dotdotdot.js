@@ -15,6 +15,7 @@
 
 
 
+
 (function( $ )
 {
 	if ( $.fn.dotdotdot )
