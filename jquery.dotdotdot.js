@@ -16,13 +16,6 @@
 
 
 
-
-
-
-
-
-
-
 (function( $ )
 {
 	if ( $.fn.dotdotdot )
