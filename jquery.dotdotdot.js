@@ -22,6 +22,7 @@
 
 
 
+
 (function( $ )
 {
 	if ( $.fn.dotdotdot )
