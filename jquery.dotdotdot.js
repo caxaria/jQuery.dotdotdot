@@ -13,6 +13,11 @@
  
  
  
+ 
+ 
+ 
+ 
+ 
 (function( $ )
 {
 	if ( $.fn.dotdotdot )
