@@ -10,11 +10,7 @@
  *	http://en.wikipedia.org/wiki/MIT_License
  *	http://en.wikipedia.org/wiki/GNU_General_Public_License
  */
- 
- 
- 
- 
- a = 1;
+a = 1;
  b = 2;
  c = 3;
  
